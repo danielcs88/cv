@@ -1,14 +1,14 @@
 name:
-  first: Brandon
-  last: Amos
-email: bda@fb.com
+  first: Daniel
+  last: Cárdenas
+email: jdcard88@gmail.com
 pdf: /data/cv.pdf
-src: https://github.com/bamos/cv
-url: "bamos.github.io"
+src: https://github.com/danielcs88/cv
+url: "danielcs88.github.io"
 social:
-  github: bamos
-  twitter: brandondamos
-  linkedin: bdamos
+  github: danielcs88
+  twitter: danielcardenas_
+  linkedin: danielcs88
   google_scholar: d8gdZR4AAAAJ
 
 # LaTeX formatting
@@ -21,9 +21,9 @@ order:
   - [current_position, Current Position]
   - [education, Education]
   - [positions, Previous Positions]
-  - [honors, Honors \& Awards]
-  - [all_publications, Publications]
-  - [NEWPAGE, NEWPAGE]
+  # - [honors, Honors \& Awards]
+  # - [all_publications, Publications]
+  # - [NEWPAGE, NEWPAGE]
   - [repos, Repositories]
   - [talks, Invited Talks]
   - [advising, Interns and Students]
